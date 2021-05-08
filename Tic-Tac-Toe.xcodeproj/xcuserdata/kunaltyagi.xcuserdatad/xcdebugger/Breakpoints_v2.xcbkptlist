@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CD7AB0D5-7A1B-459F-AA8D-E3B48D033A5A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2957F18-3C7E-4B61-844B-356C27BFBCBC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tic-Tac-Toe/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "determineComputerMovePosition(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07DCE5C7-5BC2-4C7C-8AF9-9B226BBF739E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tic-Tac-Toe/GameView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CEBB4D6-9949-4DF9-9859-A1AEEE897879"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tic-Tac-Toe/GameView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2CEBB4D6-9949-4DF9-9859-A1AEEE897879 - e6b0280870221cb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.alert&lt;A where A1: Swift.Identifiable&gt;(item: SwiftUI.Binding&lt;Swift.Optional&lt;A1&gt;&gt;, content: (A1) -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0 in Tic_Tac_Toe.GameView.body.getter : some"
+                  moduleName = "Tic-Tac-Toe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunaltyagi/Projects/Tic-Tac-Toe/Tic-Tac-Toe/GameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1302">
+               </Location>
+               <Location
+                  uuid = "2CEBB4D6-9949-4DF9-9859-A1AEEE897879 - 84a1b6fd3ed71602"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Tic_Tac_Toe.AlertItem) -&gt; SwiftUI.Alert in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.alert&lt;A where A1: Swift.Identifiable&gt;(item: SwiftUI.Binding&lt;Swift.Optional&lt;A1&gt;&gt;, content: (A1) -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0 in Tic_Tac_Toe.GameView.body.getter : some"
+                  moduleName = "Tic-Tac-Toe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kunaltyagi/Projects/Tic-Tac-Toe/Tic-Tac-Toe/GameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "146">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
